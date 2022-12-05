@@ -7,12 +7,12 @@ Have fun!
 
 ## Environment.
     
-    torch_scatter==2.0.5
-    tqdm==4.48.2
-    torch==1.4.0
-    numpy==1.19.5
-    faiss==1.6.4
-
+    torch_scatter
+    tqdm
+    torch
+    numpy
+    faiss
+    
 
 ## Credits.
 
